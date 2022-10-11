@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/myfirstlaravelvue/precache-manifest.72a1dfb4ed8ad62335024e3889fe8118.js"
+  "/finalaravel/precache-manifest.72a1dfb4ed8ad62335024e3889fe8118.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "vue-now-ui-dashboard-pro"});
